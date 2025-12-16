@@ -1,17 +1,34 @@
 {
-  "min_ascension_version": "2.2.0",
-
-  "legacy_dlcs": [
-    "Hyper Skins",
-    "Chaos Mode",
-    "Night Theme",
-    "Time Attack",
-    "Wandering Food"
-  ],
-
-  "dlcs": {
-    "Ascension": {
-      "introduced": "2.2.0"
-    }
+  "Hyper Skins": {
+    "type": "cosmetic",
+    "affects": "snake",
+    "introduced": "v2.0.0"
+  },
+  "Night Theme": {
+    "type": "cosmetic",
+    "affects": "theme",
+    "introduced": "v2.0.0"
+  },
+  "Red Blue Snake": {
+    "type": "cosmetic",
+    "affects": "snake",
+    "introduced": "v2.3.0",
+  },
+  "Chaos Mode": {
+    "type": "gameplay",
+    "introduced": "v2.0.0"
+  },
+  "Time Attack": {
+    "type": "gameplay",
+    "introduced": "v2.0.0"
+  },
+  "Wandering Food": {
+    "type": "gameplay",
+    "introduced": "v2.1.0"
+  },
+  "Ascension": {
+    "type": "mode",
+    "introduced": "v2.2.0",
+    "leaderboard": true
   }
 }
