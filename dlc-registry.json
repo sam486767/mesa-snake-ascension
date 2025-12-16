@@ -12,7 +12,7 @@
   "Red Blue Snake": {
     "type": "cosmetic",
     "affects": "snake",
-    "introduced": "v2.3.0",
+    "introduced": "v2.3.0"
   },
   "Chaos Mode": {
     "type": "gameplay",
