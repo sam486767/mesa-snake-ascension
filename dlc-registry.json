@@ -30,5 +30,24 @@
     "type": "mode",
     "introduced": "v2.2.0",
     "leaderboard": true
+  },
+  "Mode 2 Revamp": {
+    "type": "gameplay",
+    "introduced": "v2.4.0",
+    "banned_from": ["Ascension"],
+    "start": "2025-06-01",
+    "end": "2026-01-31",
+    "allow_post_expiry_submit": false,
+    "desc": "Turns Mode 2 up to 11. Faster, dumber, and more chaotic."
+  },
+  "Theme Customiser": {
+    "type": "cosmetic",
+    "affects": "theme",
+    "introduced": "v2.4.0",
+    "start": "2025-12-01",
+    "end": "2026-03-01",
+    "one_time_only": true,
+    "allow_post_expiry_submit": true,
+    "desc": "One-time-only colour picker to create a permanent custom theme."
   }
 }
